@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 /**
  * Created by irisha on 13.04.2017.
  */
-public class SortingString {z
+public class SortingString {
     private static final String txt = "Привет !\n" +
             "Рассортировать слова текста по возрастанию доли гласных букв (отношение\n" +
             "количества гласных к общему количеству букв в слове).";
